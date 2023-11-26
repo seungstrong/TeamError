@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 버튼의 배경 -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#3F51B5" /> <!-- 버튼 배경색 -->
+            <corners android:radius="8dp" /> <!-- 버튼 모서리 둥글게 설정 -->
+        </shape>
+    </item>
+    <!-- 텍스트에 음영 추가 -->
+    <item android:right="1dp" android:left="1dp" android:top="1dp" android:bottom="1dp">
+        <shape android:shape="rectangle">
+            <solid android:color="#000000" /> <!-- 음영 색상 -->
+            <corners android:radius="8dp" /> <!-- 텍스트 뷰 모서리 둥글게 설정 -->
+        </shape>
+    </item>
+    <!-- 텍스트 뷰 -->
+    <item android:right="4dp" android:left="4dp" android:top="4dp" android:bottom="4dp">
+        <shape android:shape="rectangle">
+            <solid android:color="#00C2FF" /> <!-- 텍스트 색상 -->
+            <corners android:radius="8dp" /> <!-- 텍스트 뷰 모서리 둥글게 설정 -->
+        </shape>
+    </item>
+</layer-list>
