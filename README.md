@@ -5,5 +5,4 @@ Squat Counting application customizing MLkit sample app
 
 ![image](https://github.com/seungstrong/Homtking/assets/102150812/9bac2bec-b2b7-4319-ac27-8afdc8b90d3b)
 
-![image](https://github.com/seungstrong/Homtking/assets/102150812/b1394c78-36b6-4a4c-8306-7ff41ce05e42)
 
